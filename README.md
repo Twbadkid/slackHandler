@@ -1,4 +1,4 @@
-# slackHandler
+# SlackHandler
 Handler for python logging module to send slack message
 
 
