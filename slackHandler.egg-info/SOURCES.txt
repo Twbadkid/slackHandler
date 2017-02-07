@@ -1,8 +1,0 @@
-setup.py
-slackHandler/__init__.py
-slackHandler.egg-info/PKG-INFO
-slackHandler.egg-info/SOURCES.txt
-slackHandler.egg-info/dependency_links.txt
-slackHandler.egg-info/not-zip-safe
-slackHandler.egg-info/requires.txt
-slackHandler.egg-info/top_level.txt
